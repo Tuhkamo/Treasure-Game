@@ -3,73 +3,53 @@
   margin: 0;
 }
 
-body {
-	text-align: center;
-	padding: 5px;
+h1 {
+  padding: 5px;
+  color: yellow;
+  background-color: red;
+  width: 620px;
 }
 
 table {
-	margin-top: 20px;
-	margin-left: auto;
-	margin-right: auto;
-  background-color: black;
+  border-collapse: collapse;
+	cursor:url(Shovel.cur),auto;
+}
+
+table {
+  background-color: darkgreen;
 }
 
 td {
   height: 40px;
   width: 40px;
-	background-color: white;
+  border: 1px solid black;
 }
 
-button {
-	margin-top: 20px;
-	padding: 10px;
-}
-
-.tyhja {
-	background-color: gray;
+.kukka0, .aarrekukka0 {
+  background-image: url('kukka.png');
   background-repeat: no-repeat;
   background-position: center;
 }
 
-.t1 {
-	background-image: url('kukka.png');
+.kukka1, .aarrekukka1 {
+  background-image: url('mkukka.png');
   background-repeat: no-repeat;
   background-position: center;
 }
 
-.t2 {
-	background-image: url('asia.png');
+.ruoho2, .aarreruoho {
+  background-image: url('ruoho.png');
   background-repeat: no-repeat;
   background-position: center;
 }
-.t3 {
-	background-image: url('aarre.png');
+
+.aarre {
+  background-image: url('aarre.png');
   background-repeat: no-repeat;
   background-position: center;
 }
-.t4 {
-	background-image: url('Poop_Emoji.png');
+
+.kaivettu3 {
+  background-color: chocolate;
   background-repeat: no-repeat;
-  background-position: center;
-}
-.t5 {
-	background-image: url('mkukka.PNG');
-  background-repeat: no-repeat;
-  background-position: center;
-}
-.t6 {
-	background-image: url('XD_Face.png');
-  background-repeat: no-repeat;
-  background-position: center;
-}
-.t7 {
-	background-image: url('ruoho.png');
-  background-repeat: no-repeat;
-  background-position: center;
-}
-.t8 {
-	background-image: url('SD.png');
-  background-repeat: no-repeat;
-  background-position: center;
 }
