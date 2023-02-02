@@ -1,1 +1,1 @@
-## Open the file "peli.html" with your browser oh choice to play the game!
+## Go to https://raw.githack.com/Tuhkamo/Treasure-Game/main/peli.html to check out the game!
